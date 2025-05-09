@@ -1,3 +1,4 @@
+# PicCrypter
 This repository contains a Python-based image encryption and decryption tool that secures images using basic pixel manipulation techniques. By applying mathematical transformations or pixel swapping, the tool allows users to encrypt and decrypt images to protect their contents.
 
 **Features**
